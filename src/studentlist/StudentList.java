@@ -23,9 +23,9 @@ public class StudentList {
         s2.setName("dilpreet");
         s2.setSid(2);
         
-        Student s3 = new Student();
-        s3.setName("Anureet");
-        s3.setSid(3);
+        //Student s3 = new Student();
+        //s3.setName("Anureet");
+        //s3.setSid(3);
         
         //store 3 students in an array
         //Array of object
